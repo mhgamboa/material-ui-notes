@@ -1,5 +1,7 @@
-### Starter Project for the Material UI playlist
+# Material UI Notes
 
-Download the code & run **npm install** to install dependencies before starting the app.
+Notes for Material UI. I am following The Net Ninja's 2021 [Material-UI playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58).
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+## Preface
+
+This project uses react-router. See [this video](https://youtu.be/yQf1KbGiwiI) for a brief overview of react-router.
